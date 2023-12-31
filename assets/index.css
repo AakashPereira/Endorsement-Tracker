@@ -15,7 +15,7 @@ html, body {
 
 .card-container {
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: column;
 }
 
 #logo {
